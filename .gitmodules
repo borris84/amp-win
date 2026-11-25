@@ -1,6 +1,6 @@
 [submodule "amp-core"]
 	path = amp-core
-	url = https://github.com/Ampersand-ASL/amp-core.git
+	url = https://github.com/borris84/amp-core.git
 [submodule "kc1fsz-tools-cpp"]
 	path = kc1fsz-tools-cpp
 	url = https://github.com/brucemack/kc1fsz-tools-cpp.git
